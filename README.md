@@ -7,9 +7,14 @@ Arduino library to display one or more gauges on a NeoPixel strand or ring.
 Controlling the pixels in a strand of NeoPixels is no rocket science. Using a
 library like [Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
 is quite easy. This library is just an extentions on the Adafruit_NeoPixel library
-to turn your strand of NeoPixels into a single of multiple gauge display.
+to turn your strand of NeoPixels into a single or multiple gauge display.
 
 This can be achieved by just a couple of code lines.
+The tree examples sketches (
+[SingeGaugeDisplay](https://github.com/bergrans/NeoGaugeDisplay/tree/master/examples/SingleGaugeDisplay/SingleGaugeDisplay.ino),
+[SimpleDisplay](https://github.com/bergrans/NeoGaugeDisplay/blob/master/examples/SimpleDisplay/SimpleDisplay.ino),
+[AdvancedOptionsDisplay](https://github.com/bergrans/NeoGaugeDisplay/blob/master/examples/AdvancedOptionsDisplay/AdvancedOptionsDisplay.ino)
+) show most of the features of the library.
 
 The diagram below shows most of the options of this library.
 

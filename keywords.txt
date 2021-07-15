@@ -17,9 +17,3 @@ setGaugeValue	KEYWORD2
 setBackgroundColor	KEYWORD2
 setBrightness	KEYWORD2
 setRange	KEYWORD2
-
-
-
-
-
-
