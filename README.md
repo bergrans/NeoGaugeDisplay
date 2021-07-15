@@ -1,6 +1,6 @@
 # NeoGaugeDisplay
 
-Arduino libray to display one or more gauges on a NeoPixel strand or ring.
+Arduino library to display one or more gauges on a NeoPixel strand or ring.
 
 ## Introduction
 

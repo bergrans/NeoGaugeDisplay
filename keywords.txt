@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For NeoGaugeDisplay
+#######################################
+# Class
+#######################################
+
+NeoGaugeDisplay	KEYWORD1
+
+#######################################
+# Methods and Functions
+#######################################
+
+initialize	KEYWORD2
+show	KEYWORD2
+addGauge	KEYWORD2
+setGaugeValue	KEYWORD2
+setBackgroundColor	KEYWORD2
+setBrightness	KEYWORD2
+setRange	KEYWORD2
+
+
+
+
+
+
